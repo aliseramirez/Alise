@@ -1,4 +1,4 @@
-# Hello, World! I'm Alise 👋🏽 👩🏽‍💻
+# Hello, World! I'm Alise 👋🏽
 
 # <img src=" " alt="">
 I am a Data Scientist who is impassioned about providing impact through data and mentoring to make transitioning into tech more accessible. My skills are centered around statistical analytics and machine learning with SQL and Python. I co-founded Black Insight Alumni, a community for Black and Latinx alumni of the Insight Fellowship. 

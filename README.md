@@ -10,6 +10,4 @@ I am a Data Scientist who is impassioned about providing impact through data and
 - Networking on <a href="https://linkedin.com/in/aliseramirez">LinkedIn</a> 💼
 - Book time with me on <a href="https://calendly.com/aliseramirez/one-on-one">Calendly</a> 🗓️
 
-## Projects
-
 

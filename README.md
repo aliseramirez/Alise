@@ -1,6 +1,6 @@
 # Hello, World! I'm Alise 👋🏽
 
-I am a Data Scientist who is impassioned about providing impact through data and mentoring to make transitioning into tech more accessible. My skills are centered around statistical analytics and machine learning with SQL and Python. 
+My name is Alise Otilia Ramírez and I am an Afro-Latina on a mission to make tech (data) careers more accessible! I have a non-traditional background, but I think that gives me an edge in the interdisciplinary field of data science! I am on a journey of finding my place in data, and often share anecdotes of my personal experiences, advice, and inspiration for those transitioning into the field through blogs and tweets. I am open to projects, speaking gigs and mentorship.
 
 
 ## Connect with me!
